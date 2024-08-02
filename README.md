@@ -145,6 +145,12 @@ Data and model parameters are listed at the front of the Python file and you can
 
 ---
 
+## Code for feature visualization on CIFAR-10
+
+See `cifar10/` for details.
+
+---
+
 ## Acknowledgements
 
 The code structure of this repository is based on [wise-ft](https://github.com/mlfoundations/wise-ft). We greatly thank the authors for releasing their code!
