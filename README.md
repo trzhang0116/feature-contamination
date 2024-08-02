@@ -147,7 +147,7 @@ Data and model parameters are listed at the front of the Python file and you can
 
 ## Code for feature visualization on CIFAR-10
 
-See `cifar10/` for details.
+See `cifar/` for details.
 
 ---
 
