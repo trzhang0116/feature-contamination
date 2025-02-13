@@ -4,7 +4,7 @@ PyTorch code accompanying the ICML'24 paper:
 
  [Feature Contamination: Neural Networks Learn Uncorrelated Features and Fail to Generalize](https://arxiv.org/pdf/2406.03345)
 
-**TL;DR:** We identify that neural networks can learn _task-irrelevant_ features, which leads to a failure to generalize under distribution shifts.
+**TL;DR:** We identify that neural networks can learn _task-irrelevant_ features due to an implicit bias of SGD, resulting in a failure to generalize under distribution shifts.
 
 ---
 
